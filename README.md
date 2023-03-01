@@ -1,2 +1,2 @@
-# Maternal_Health_Risk_Prediction
-Maternal Health Risk Prediction using Neural Network
+# Contraceptive_Method_Choice_Prediction
+Contraceptive Method Choice Prediction using Neural Network from Scratch
